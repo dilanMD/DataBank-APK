@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Data Bank</string>
+
+    <string-array name="sharing_data">
+        <item>User data</item>
+        <item>Option 1</item>
+        <item>Option 2</item>
+        <item>Option 3</item>
+        <item>Option 4</item>
+        <item>Option 5</item>
+        <item>Option 6</item>
+        <item>Option 7</item>
+        <item>Option 8</item>
+    </string-array>
+</resources>
