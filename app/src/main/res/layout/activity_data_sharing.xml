@@ -14,7 +14,7 @@
         android:orientation="vertical"
         tools:context=".DataSharingActivity">
 
-        <android.support.v7.widget.CardView
+        <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="300dp"
             android:layout_margin="15dp"
@@ -164,9 +164,9 @@
             </LinearLayout>
 
 
-        </android.support.v7.widget.CardView>
+        </androidx.cardview.widget.CardView>
 
-        <android.support.v7.widget.CardView
+        <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="300dp"
             android:layout_margin="15dp"
@@ -257,7 +257,7 @@
             </LinearLayout>
 
 
-        </android.support.v7.widget.CardView>
+        </androidx.cardview.widget.CardView>
 
         <Button
             android:id="@+id/go_home"

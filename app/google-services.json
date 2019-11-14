@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "368821920561",
+    "firebase_url": "https://data-bank-47ed8.firebaseio.com",
+    "project_id": "data-bank-47ed8",
+    "storage_bucket": "data-bank-47ed8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368821920561:android:0efbc2381900b2d0f14610",
+        "android_client_info": {
+          "package_name": "com.deluxan.databank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368821920561-9gq9sr928jaf3gqc6a0gkk119lckljqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc1pTcxdYaW0trMdDVr_f5oLhgtPsFfJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368821920561-9gq9sr928jaf3gqc6a0gkk119lckljqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

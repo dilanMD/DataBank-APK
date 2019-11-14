@@ -1,11 +1,12 @@
 package com.deluxan.databank;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.CardView;
 import android.view.View;
+
+import androidx.cardview.widget.CardView;
 
 import com.github.mikephil.charting.charts.PieChart;
 import com.github.mikephil.charting.charts.RadarChart;
@@ -21,7 +22,7 @@ import com.github.mikephil.charting.utils.ColorTemplate;
 
 import java.util.ArrayList;
 
-public class DashboardActivity extends AppCompatActivity {
+public class DashboardActivity extends Activity {
 
     CardView dashboard;
     PieChart pieChart;
